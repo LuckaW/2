@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\bin\Debug\net6.0\du 1 - kvadraticka rovnice.exe
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\bin\Debug\net6.0\du 1 - kvadraticka rovnice.deps.json
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\bin\Debug\net6.0\du 1 - kvadraticka rovnice.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\bin\Debug\net6.0\du 1 - kvadraticka rovnice.dll
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\bin\Debug\net6.0\du 1 - kvadraticka rovnice.pdb
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.dll
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\refint\du 1 - kvadraticka rovnice.dll
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.pdb
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\du 1 - kvadraticka rovnice.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\du 1 - kvadraticka rovnice\du 1 - kvadraticka rovnice\obj\Debug\net6.0\ref\du 1 - kvadraticka rovnice.dll
