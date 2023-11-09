@@ -1,11 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.IO;
 
 Console.WriteLine("Tady se řeší kvadratická rovnice.");
 
 float a, b, c, i, y;
 bool success;
-
 
 
 Console.WriteLine(" rovnice je a * x^2 + b * x + c = 0: ");
@@ -32,29 +32,34 @@ do
 
 } while (!success);
 
-float Sqrt(4 * a * c)
+float mocninab = Math.Pow(b, 2);
+
+
+float prvnix()
 {
-
-
-  
-    void prvnikrok(float[] a, float[] b, float[] c)
+    for (float i = ((-b) - (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a)) 
     {
-        for (float i = ((-b) * Sqrt) / 2 * a)
+        if (i = 0) 
         {
-            prvnikrok([i]);
+                          Console.WriteLine("Rovnice nemá řešení.")
         }
-
     }
 
-
-    
-    void druhykrok(float[] a, float[] b, float[] c)
-    {
-        for (float y = ((b) * Sqrt) / 2 * a)
-        {
-            druhykrok([y]);
-        }
-
-    }
 }
+
+
+
+float druhyx() 
+{
+    for (float y = ((-b) + (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a)) 
+    {
+        if (y = 0) 
+        {
+                           Console.WriteLine("Rovnice nemá řešení.");
+        }
+
+    }
+
+}
+
 Console.WriteLine(" x1 je " + i ". x2 je " + y);
