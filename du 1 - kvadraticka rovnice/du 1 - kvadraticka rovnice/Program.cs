@@ -50,7 +50,7 @@ else
 
     double prvnix()
     {
-        return (-b) - Math.Sqrt(D) / (2 * a);
+        return ((-b) - Math.Sqrt(D)) / (2 * a);
 
     }
 
@@ -58,7 +58,7 @@ else
 
     double druhyx()
     {
-        return (-b) + Math.Sqrt(D) / (2 * a);
+        return ((-b) + Math.Sqrt(D)) / (2 * a);
 
     }
     if (D < 0)
