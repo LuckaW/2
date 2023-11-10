@@ -5,7 +5,7 @@ using System.Net.Security;
 
 Console.WriteLine("Tady se řeší kvadratická rovnice.");
 
-double a, b, c, i, y;
+double a, b, c;
 bool success;
 
 
@@ -35,27 +35,44 @@ do
 
 double mocninab = Math.Pow(b, 2);
 
-
-void prvnix(double a, double b, double c, double mocninab)
+if (a == 0)
 {
-    for (double i = ((-b) - (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a);;)
-    {
-        
-        
-     
-    }
+    Console.WriteLine("Rovnice nemá řešení.");
+
 }
-
-
-
-void druhyx( double a, double b, double c, double mocninab) 
+else if (b == 0 && c == 0)
 {
-    for (double y = ((-b) + Math.Sqrt(mocninab - 4 * a * c)) / (2 * a); ;)
+    Console.WriteLine("Rovnice má nekonečno řešení.");
+}
+else  
+{
+    double D = mocninab - 4 * a * c;
+
+    double prvnix()
+    {
+        return (-b) - Math.Sqrt(D) / (2 * a);
+
+    }
+
+
+
+    double druhyx()
+    {
+        return (-b) + Math.Sqrt(D) / (2 * a);
+
+    }
+    if (D < 0)
+    {
+        Console.WriteLine("Rovnice nemá řešení.");
+    }
+    else if (D == 0)
+    {
+        Console.WriteLine("x = " + prvnix());
+    }
+    else
     {
        
-        
-
+        Console.WriteLine($" x1 je {prvnix()}. x2 je {druhyx()}");
     }
+    
 }
-
-Console.WriteLine($" x1 je {prvnix}. x2 je {druhyx}");
