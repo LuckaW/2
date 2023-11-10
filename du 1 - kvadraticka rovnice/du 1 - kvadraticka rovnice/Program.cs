@@ -1,10 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.IO;
+using System.Net.Security;
 
 Console.WriteLine("Tady se řeší kvadratická rovnice.");
 
-float a, b, c, i, y;
+double a, b, c, i, y;
 bool success;
 
 
@@ -14,52 +15,47 @@ do
 {
     Console.WriteLine(" Zadej a: ");
     string A = Console.ReadLine();
-    success = float.TryParse(A, out a);
+    success = double.TryParse(A, out a);
     
 } while (!success);
 do
 {
     Console.WriteLine(" Zadej b: ");
     string B = Console.ReadLine();
-    success = float.TryParse(B, out b);
+    success = double.TryParse(B, out b);
 
 } while (!success);
 do
 {
     Console.WriteLine(" Zadej c: ");
     string C = Console.ReadLine();
-    success = float.TryParse(C, out c);
+    success = double.TryParse(C, out c);
 
 } while (!success);
 
-float mocninab = Math.Pow(b, 2);
+double mocninab = Math.Pow(b, 2);
 
 
-float prvnix()
+void prvnix(double a, double b, double c, double mocninab)
 {
-    for (float i = ((-b) - (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a)) 
+    for (double i = ((-b) - (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a);;)
     {
-        if (i = 0) 
-        {
-                          Console.WriteLine("Rovnice nemá řešení.")
-        }
+        
+        
+     
     }
-
 }
 
 
 
-float druhyx() 
+void druhyx( double a, double b, double c, double mocninab) 
 {
-    for (float y = ((-b) + (Math.Sqrt(mocninab - 4 * a * c))) / (2 * a)) 
+    for (double y = ((-b) + Math.Sqrt(mocninab - 4 * a * c)) / (2 * a); ;)
     {
-        if (y = 0) 
-        {
-                           Console.WriteLine("Rovnice nemá řešení.");
-        }
+       
+        
 
     }
-
 }
 
-Console.WriteLine(" x1 je " + i ". x2 je " + y);
+Console.WriteLine($" x1 je {prvnix}. x2 je {druhyx}");
