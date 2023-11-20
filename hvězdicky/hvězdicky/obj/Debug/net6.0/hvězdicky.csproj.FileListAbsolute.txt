@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\bin\Debug\net6.0\hvězdicky.exe
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\bin\Debug\net6.0\hvězdicky.deps.json
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\bin\Debug\net6.0\hvězdicky.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\bin\Debug\net6.0\hvězdicky.dll
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\bin\Debug\net6.0\hvězdicky.pdb
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.dll
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\refint\hvězdicky.dll
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.pdb
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\hvězdicky.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\hvězdicky\hvězdicky\obj\Debug\net6.0\ref\hvězdicky.dll
