@@ -11,53 +11,53 @@ static void urcimoznost ( int možnost)
     {
         case 0:
             {
-              //  printctverec();
+                printctverec();
                 break;
             }
 
         case 1:
             {
-               // printobdelnik();
+                printobdelnik();
                 break;
             }
         case 2:
             {
-              //  printtrojuhelnik();
+                printtrojuhelnik();
                 break;
             }
         case 3:
             {
-                //printkruh();
+                printkruh();
                 break;
             }
         case 4:
             {
-               // printpetiuhelnik();
+                printpetiuhelnik();
                 break;
             }
         case 5:
             {
-               // printsestiuhelnik();
+                printsestiuhelnik();
                 break;
             }
         case 6:
             {
-               // printkrychle();
+                printkrychle();
                 break;
             }
         case 7:
             {
-                //printkvadr();
+                printkvadr();
                 break;
             }
         case 8:
             {
-                //printkuzel();
+                printkuzel();
                 break;
             }
         case 9:
             {
-               // printkoule();
+                printkoule();
                 break;
             }
         default: 
@@ -84,6 +84,26 @@ int vybralsi()
     return x;
 }
 urcimoznost(vybralsi());
+int zadejcislo()
+{
+    for (; ; )
+    {
+        Console.WriteLine("Zadej kladné číslo:");
+        
+        if(int.TryParse(string cislo = Console.ReadLine(),))
+        {
+            if (cislo > 0)
+            {
+                return cislo;
+            }
+        }
+    }
+}
+
+void printctverec()
+{
+    
+}
 
 
 
