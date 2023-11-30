@@ -5,7 +5,7 @@ using System;
 using System.Security.Cryptography.X509Certificates;
 while (true)
 {
-    string[] možnost = new string[] { "0) čtverec", "1) obdélník", "2) trojúelník", "3) kruh", "4) pětiuhhelník (pravidelný)", "5) šestiuhelník (pravidelný)","6) n - úhelník", "7) krychle", "8) kvádr", "9) kužel", "10) koule" };
+    string[] možnost = new string[] { "čtverec", "obdélník", "trojúelník", "kruh", "pětiuhhelník (pravidelný)", "šestiuhelník (pravidelný)","n - úhelník", "krychle", "kvádr", "kužel", "koule" };
 
     void urcimoznost(int možnost)
     {
@@ -76,8 +76,10 @@ while (true)
     }
    
     Console.WriteLine("Vyber si obrazec a napiš jeho číslo:");
-    foreach (string obrazec in možnost)
+    for (int i = 0; i < možnost.Length; i++)
     {
+        Console.Write(i + " ");
+        string obrazec = možnost[i];
         Console.WriteLine(obrazec);
     }
 
