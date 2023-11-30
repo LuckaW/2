@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucie.winterova\\source\\repos\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj": {}
+    "C:\\Users\\lucie.winterova\\Source\\Repos\\2\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucie.winterova\\source\\repos\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj": {
+    "C:\\Users\\lucie.winterova\\Source\\Repos\\2\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucie.winterova\\source\\repos\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj",
+        "projectUniqueName": "C:\\Users\\lucie.winterova\\Source\\Repos\\2\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj",
         "projectName": "obvod-obsah",
-        "projectPath": "C:\\Users\\lucie.winterova\\source\\repos\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj",
+        "projectPath": "C:\\Users\\lucie.winterova\\Source\\Repos\\2\\obvod-obsah\\obvod-obsah\\obvod-obsah.csproj",
         "packagesPath": "C:\\Users\\lucie.winterova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucie.winterova\\source\\repos\\obvod-obsah\\obvod-obsah\\obj\\",
+        "outputPath": "C:\\Users\\lucie.winterova\\Source\\Repos\\2\\obvod-obsah\\obvod-obsah\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "\\\\gymspit.cz\\data$\\lucie.winterova\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -12,3 +12,17 @@ C:\Users\lucie.winterova\source\repos\obvod-obsah\obvod-obsah\obj\Debug\net6.0\r
 C:\Users\lucie.winterova\source\repos\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.pdb
 C:\Users\lucie.winterova\source\repos\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.genruntimeconfig.cache
 C:\Users\lucie.winterova\source\repos\obvod-obsah\obvod-obsah\obj\Debug\net6.0\ref\obvod-obsah.dll
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\bin\Debug\net6.0\obvod-obsah.exe
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\bin\Debug\net6.0\obvod-obsah.deps.json
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\bin\Debug\net6.0\obvod-obsah.runtimeconfig.json
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\bin\Debug\net6.0\obvod-obsah.dll
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\bin\Debug\net6.0\obvod-obsah.pdb
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.AssemblyInfo.cs
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.dll
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\refint\obvod-obsah.dll
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.pdb
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\obvod-obsah.genruntimeconfig.cache
+C:\Users\lucie.winterova\Source\Repos\2\obvod-obsah\obvod-obsah\obj\Debug\net6.0\ref\obvod-obsah.dll
