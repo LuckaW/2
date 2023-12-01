@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\bin\Debug\net6.0\faktorial.exe
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\bin\Debug\net6.0\faktorial.deps.json
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\bin\Debug\net6.0\faktorial.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\bin\Debug\net6.0\faktorial.dll
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\bin\Debug\net6.0\faktorial.pdb
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.dll
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\refint\faktorial.dll
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.pdb
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\faktorial.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\faktorial\faktorial\obj\Debug\net6.0\ref\faktorial.dll
