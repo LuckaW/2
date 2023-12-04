@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\bin\Debug\net6.0\hadanka.exe
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\bin\Debug\net6.0\hadanka.deps.json
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\bin\Debug\net6.0\hadanka.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\bin\Debug\net6.0\hadanka.dll
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\bin\Debug\net6.0\hadanka.pdb
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.dll
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\refint\hadanka.dll
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.pdb
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\hadanka.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\hadanka\hadanka\obj\Debug\net6.0\ref\hadanka.dll
