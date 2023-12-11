@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\bin\Debug\net6.0\mocniny.exe
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\bin\Debug\net6.0\mocniny.deps.json
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\bin\Debug\net6.0\mocniny.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\bin\Debug\net6.0\mocniny.dll
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\bin\Debug\net6.0\mocniny.pdb
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.dll
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\refint\mocniny.dll
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.pdb
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\mocniny.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\mocniny\mocniny\obj\Debug\net6.0\ref\mocniny.dll
