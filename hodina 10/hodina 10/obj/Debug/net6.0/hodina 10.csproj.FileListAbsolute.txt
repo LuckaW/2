@@ -12,3 +12,5 @@ C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\obj\Debug\net6.0\refin
 C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\obj\Debug\net6.0\hodina 10.pdb
 C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\obj\Debug\net6.0\hodina 10.genruntimeconfig.cache
 C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\obj\Debug\net6.0\ref\hodina 10.dll
+C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\bin\Debug\net6.0\pokedex.txt
+C:\Users\lucie.winterova\source\repos\hodina 10\hodina 10\bin\Debug\net6.0\pokedexnovy.txt
