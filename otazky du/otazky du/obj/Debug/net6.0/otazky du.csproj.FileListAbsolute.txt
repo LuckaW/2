@@ -1,0 +1,15 @@
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\otazky du.exe
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\questions.data
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\otazky du.deps.json
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\otazky du.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\otazky du.dll
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\bin\Debug\net6.0\otazky du.pdb
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.dll
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\refint\otazky du.dll
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.pdb
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\otazky du.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\otazky du\otazky du\obj\Debug\net6.0\ref\otazky du.dll
