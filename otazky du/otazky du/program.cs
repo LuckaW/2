@@ -10,7 +10,7 @@ string odpoved()
 while (true)
 {
     
-    string[] seznamek = File.ReadAllLines("questions.data");
+    string[] seznamek = File.ReadAllLines("questions_small.data");
 
 
     for (int bob = 0; bob < seznamek.Length; bob++)
