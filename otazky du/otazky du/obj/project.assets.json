@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lucie.winterova\\.nuget\\packages\\": {}
+    "C:\\Users\\luciw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucie.winterova\\source\\repos\\otazky du\\otazky du\\otazky du.csproj",
+      "projectUniqueName": "C:\\Users\\luciw\\source\\repos\\3\\otazky du\\otazky du\\otazky du.csproj",
       "projectName": "otazky du",
-      "projectPath": "C:\\Users\\lucie.winterova\\source\\repos\\otazky du\\otazky du\\otazky du.csproj",
-      "packagesPath": "C:\\Users\\lucie.winterova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucie.winterova\\source\\repos\\otazky du\\otazky du\\obj\\",
+      "projectPath": "C:\\Users\\luciw\\source\\repos\\3\\otazky du\\otazky du\\otazky du.csproj",
+      "packagesPath": "C:\\Users\\luciw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luciw\\source\\repos\\3\\otazky du\\otazky du\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "\\\\gymspit.cz\\data$\\lucie.winterova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luciw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
