@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hodina14", "hodina14\hodina14.csproj", "{0F0CB391-C8F3-4F7D-9A62-9B740846CB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0CB391-C8F3-4F7D-9A62-9B740846CB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0CB391-C8F3-4F7D-9A62-9B740846CB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0CB391-C8F3-4F7D-9A62-9B740846CB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0CB391-C8F3-4F7D-9A62-9B740846CB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD3B1476-ED57-460A-B1D6-151E4FA62DFC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\bin\Debug\net8.0\hodina14.exe
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\bin\Debug\net8.0\hodina14.deps.json
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\bin\Debug\net8.0\hodina14.runtimeconfig.json
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\bin\Debug\net8.0\hodina14.dll
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\bin\Debug\net8.0\hodina14.pdb
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.AssemblyInfoInputs.cache
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.AssemblyInfo.cs
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.csproj.CoreCompileInputs.cache
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.dll
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\refint\hodina14.dll
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.pdb
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\hodina14.genruntimeconfig.cache
+C:\Users\lucie.winterova\source\repos\hodina14\hodina14\obj\Debug\net8.0\ref\hodina14.dll
