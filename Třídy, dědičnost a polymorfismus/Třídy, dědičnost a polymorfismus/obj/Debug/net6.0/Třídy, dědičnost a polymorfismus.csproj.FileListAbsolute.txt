@@ -1,0 +1,14 @@
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.AssemblyInfoInputs.cache
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.AssemblyInfo.cs
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.csproj.CoreCompileInputs.cache
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\bin\Debug\net6.0\Třídy, dědičnost a polymorfismus.exe
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\bin\Debug\net6.0\Třídy, dědičnost a polymorfismus.deps.json
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\bin\Debug\net6.0\Třídy, dědičnost a polymorfismus.runtimeconfig.json
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\bin\Debug\net6.0\Třídy, dědičnost a polymorfismus.dll
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\bin\Debug\net6.0\Třídy, dědičnost a polymorfismus.pdb
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.dll
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\refint\Třídy, dědičnost a polymorfismus.dll
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.pdb
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\Třídy, dědičnost a polymorfismus.genruntimeconfig.cache
+C:\Users\luciw\source\repos\Třídy, dědičnost a polymorfismus\Třídy, dědičnost a polymorfismus\obj\Debug\net6.0\ref\Třídy, dědičnost a polymorfismus.dll
