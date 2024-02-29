@@ -6,6 +6,7 @@ public class Produkt
 
      public void ZobrazInfo()
     {
-        Console.WriteLine(Jméno);  Console.WriteLine(Cena);
+        Console.WriteLine(Jméno); 
+        Console.WriteLine(Cena);
     }
 }
